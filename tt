@@ -1,1 +1,2 @@
-
+npx create-react-app my-cloud-app
+cd my-cloud-app
