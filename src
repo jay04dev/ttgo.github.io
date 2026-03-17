@@ -1,1 +1,12 @@
-
+my-app/
+├── node_modules/
+├── public/
+├── src/
+│   ├── components/
+│   │   └── App.js
+│   ├── firebase.js  <-- PUT STEP 3 HERE
+│   ├── index.js
+│   └── App.css
+├── .env             <-- (Optional) Store your keys here
+├── package.json
+└── README.md
